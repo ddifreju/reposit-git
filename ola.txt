@@ -1,0 +1,9 @@
+git init - cria repositório
+git add . - up tudo pro GitHub
+git remote add origin "link GitHub"
+git commit -m "msg de commit"
+git push origin main
+
+agora na branch nova 
+
+git checkout -b dev
